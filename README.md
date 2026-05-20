@@ -17,7 +17,7 @@ A Python-based virtual mouse that uses your computer's webcam to track hand gest
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/saireddy-shyamakura/virtual_mouse
    cd virtual_input
    ```
 
